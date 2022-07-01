@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-这是我的主页
-
-[Github个人主页]: https://kennyangel.github.io/	"">> Click here.""
+[Github个人主页]: https://kennyangel.github.io/
 
 
 
