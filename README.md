@@ -2,9 +2,7 @@
 
 欢迎来到 KennyAngel 的个人页面
 
-[Github个人主页]: https://kennyangel.github.io/ "Github个人主页"
-
-test5
+My Page：https://kennyangel.github.io/
 
 **KennyAngel/KennyAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
