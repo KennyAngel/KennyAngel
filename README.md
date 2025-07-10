@@ -3,6 +3,7 @@
 欢迎来到 KennyAngel 的个人页面✨
 
 个人BLOG：https://kennyangel.github.io/
+个人BLOG已迁移到：saturnbot.cn
 
 Gitee：https://gitee.com/kenny_angel/
 
